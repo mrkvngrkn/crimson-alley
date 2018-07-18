@@ -10,7 +10,8 @@
 /build
 
 # compiled css files
-/src/components/*.css
+/src/**/*.css
+!/src/vendor/*.css
 
 # misc
 .DS_Store
